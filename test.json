@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "last_name": "Pilapil",
+    "middle_name": "Dela Cruz",
+    "first_name": "Jerome",
+    "address": "Las Pinas",
+    "hobbies": "magwalwal"
+  },
+  {
+    "id": 2,
+    "last_name": "Grey",
+    "middle_name": "P",
+    "first_name": "Piper",
+    "address": "Las Pinas",
+    "hobbies": "foot"
+  },
+  {
+    "id": 3,
+    "last_name": "Ozawa",
+    "middle_name": "Test",
+    "first_name": "Ashlyn",
+    "address": "Russia",
+    "hobbies": "pov"
+  },
+  {
+    "id": 4,
+    "last_name": "Brooks",
+    "middle_name": "asd",
+    "first_name": "Maria",
+    "address": "Las Pinas",
+    "hobbies": "public"
+  },
+  {
+    "id": 5,
+    "last_name": "Perry",
+    "middle_name": "Sins",
+    "first_name": "Sasha",
+    "address": "US",
+    "hobbies": "bar"
+  },
+]
